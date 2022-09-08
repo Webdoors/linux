@@ -2,7 +2,10 @@
  * (C) 2001, 2002, 2003, 2004 Rusty Russell
  *
  * This code is licenced under the GPL.
+ 
+ Hi Linus I am software developer developing new generation desktops, and want to discuss some issues with you
  */
+
 #include <linux/sched/mm.h>
 #include <linux/proc_fs.h>
 #include <linux/smp.h>
